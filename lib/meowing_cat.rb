@@ -1,11 +1,12 @@
-Class Cat 
+Class Cat
 
 def cat_name=(name)
  cat_name = name
 end
 
-def name 
-  @cat_name 
+def name
+  @cat_name
+end 
 end 
 
 maru = Cat.new
