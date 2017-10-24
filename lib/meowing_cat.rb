@@ -6,7 +6,7 @@ end
 
 def name
   @cat_name
-end 
+end
 end 
 
 maru = Cat.new
