@@ -1,11 +1,11 @@
-Class Cat 
+Class Cat
 
 maru = Cat.new
 maru.name = "Maru"
-maru.name 
+maru.name
 
 attr_accessor :meow
 
 maru.meow
 
-end 
+end
