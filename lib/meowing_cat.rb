@@ -7,4 +7,3 @@ maru.name
 attr_accessor :meow
 
 maru.meow
-
